@@ -8,3 +8,5 @@ __pycache__/
 
 # Ignorar archivos de pesos grandes
 *.pt
+yolov5/
+yolov9/
