@@ -1,0 +1,14 @@
+train: C:/Users/PC/Escritorio/ComunicationBees/bee_dataset/train/images
+val: C:/Users/PC/Escritorio/ComunicationBees/bee_dataset/valid/images
+test: C:/Users/PC/Escritorio/ComunicationBees/bee_dataset/test/images
+
+nc: 4  # Número de clases
+names: ['bee', 'drone', 'pollenbee', 'queen']  # Nombres de las clases
+
+
+roboflow:
+  workspace: matt-nudi
+  project: honey-bee-detection-model-zgjnb
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/matt-nudi/honey-bee-detection-model-zgjnb/dataset/4

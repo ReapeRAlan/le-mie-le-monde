@@ -1,0 +1,5 @@
+setup.py
+yolov5.egg-info/PKG-INFO
+yolov5.egg-info/SOURCES.txt
+yolov5.egg-info/dependency_links.txt
+yolov5.egg-info/top_level.txt
